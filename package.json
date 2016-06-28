@@ -1,0 +1,15 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "新的博客",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "wangtao",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "webpack": "^1.13.1"
+  }
+}
